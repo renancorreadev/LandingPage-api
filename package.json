@@ -15,9 +15,7 @@
     "commitizen": "^4.2.4",
     "commitlint-config-gitmoji": "^2.2.5",
     "cz-conventional-changelog": "3.3.0",
-    "cz-customizable": "^6.9.0",
-    "release": "^6.3.0",
-    "standard-version": "^9.5.0"
+    "cz-customizable": "^6.9.0"
   },
   "dependencies": {
     "strapi": "3.6.8",
